@@ -6,7 +6,7 @@
  * @var array
  */
 $config = [
-    'name' => 'Simple PHP Website',
+    'name' => 'Simple PHP Website - version 1',
 ];
 
 /**
